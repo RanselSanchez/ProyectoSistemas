@@ -1,0 +1,6 @@
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\rancel\source\repos\proyecto_final\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
