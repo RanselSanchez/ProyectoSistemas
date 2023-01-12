@@ -1,3 +1,3 @@
 # ProyectoSistemas
-este es una repositorio para subir sistemas para introducir datos.
+ programa para algun departamento estudiantil.
 primer programa en github
